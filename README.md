@@ -1,7 +1,5 @@
-# Adobe ExtendScript language
+# After Effects OpenWeatherMap scripts
 
 ![](https://github.com/konradmakosa/AE_openweathermap_script/blob/main/AE_openweather.gif)
 <br>
-I have developed custom scripts and additional panels for Adobe After Effects, Photoshop, and other software to aid in automating various tasks and workflows.<br>  
-These tools are designed to streamline the creative process, making it more efficient and user-friendly. I specialize in creating tailored solutions to fit specific needs and requirements. I am available for custom orders to develop scripts and panels that cater to unique project demands.<br>  
-My work demonstrates a strong understanding of both the technical aspects of software automation and the creative needs of users.
+I have developed a suite of scripts utilizing Google Cloud, No Code applications, Adobe Scripts, Python and other tools to automate the generation of animated weather forecasts in Adobe After Effects. This system is designed to seamlessly integrate real-time data from OpenWeatherMap, ensuring that the forecasts are both accurate and visually engaging. My solution demonstrates a unique blend of technical proficiency in data handling and creative skills in animation, offering a sophisticated approach to presenting weather information. This project showcases my ability to innovate and streamline complex processes, making them both efficient and visually appealing.
