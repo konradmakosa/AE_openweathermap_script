@@ -26,7 +26,7 @@
                                 "range": "H1:J104",
                                 "select": "map",
                                 "sheetId": "aktualna",
-                                "spreadsheetId": "1zqUO-olEMDeVDw8sXEZhT-BAfkuP3Ct6ejWW5GPUr2Q",
+                                "spreadsheetId": "1zqUO-olEMDeVDw8sWW5GPUr2Q",
                                 "includesHeaders": false,
                                 "valueRenderOption": "FORMATTED_VALUE",
                                 "dateTimeRenderOption": "FORMATTED_STRING"
@@ -59,7 +59,7 @@
                                                 "scoped": "true",
                                                 "connection": "google"
                                             },
-                                            "label": "My Google connection (polandingraficy@gmail.com)"
+                                            "label": "My Google connection ("
                                         }
                                     }
                                 },
@@ -260,9 +260,9 @@
                             },
                             "mapper": {
                                 "data": "{{16.json}}",
-                                "driveId": "b!W2AwgnGS4U-HjMHIqSz0P98w-k51JjdEtpv9wdr8vjv_RHC1JUs2Qo-BzZ11_VET",
+                                "driveId": "b!W2AwgnGS4U-HjMHIqwdr8vjv_RHC1JUs2Qo-BzZ11_VET",
                                 "fileName": "POGODA_{{formatDate(addDays(now; 1); \"DDMM\")}}.json",
-                                "folderId": "/01ZI6JIZC3JLRQCHLZ2BG2P2FUIN36BZO4/01ZI6JIZGY5OQ6NQGKCRDZIXUJOYWVIEQM/01ZI6JIZG4ILOVSQFINBFYZPO2FPEW73IT",
+                                "folderId": "/01ZI6JIZC3JLRQCHLZ2BG2PY5OQ6NQGKCRDZIXUJOYWVIEQM/01ZI6JIZG4ILOVSQFINBFYZPO2FPEW73IT",
                                 "conflictBehavior": "replace"
                             },
                             "metadata": {
@@ -274,7 +274,7 @@
                                     "expect": {
                                         "driveId": {
                                             "mode": "chose",
-                                            "label": "Mąkosa, Konrad (business)"
+                                            "label": "M(business)"
                                         },
                                         "folderId": {
                                             "mode": "chose",
@@ -294,7 +294,7 @@
                                                 "scoped": "true",
                                                 "connection": "azure"
                                             },
-                                            "label": "My Microsoft connection (Mąkosa, Konrad)"
+                                            "label": "My Microsoft connection d)"
                                         }
                                     }
                                 },
@@ -388,7 +388,7 @@
                                                 "scoped": "true",
                                                 "connection": "ftp"
                                             },
-                                            "label": "My FTP connection (serwer1707801.home.pl)"
+                                            "label": "My FTP connection (seme.pl)"
                                         }
                                     }
                                 },
@@ -400,7 +400,7 @@
                                         "required": true
                                     },
                                     {
-                                        "name": "isToManageDataWithinSharedConnection",
+                                        "name": "isToManageDnection",
                                         "type": "boolean",
                                         "label": "Manage data within the shared connection",
                                         "required": true
@@ -454,7 +454,7 @@
                             "mapper": {
                                 "range": "B1:d104",
                                 "sheetId": "aktualna",
-                                "spreadsheetId": "1zqUO-olEMDeVDw8sXEZhT-BAfkuP3Ct6ejWW5GPUr2Q",
+                                "spreadsheetId": "1zqUO-olEMDeVDw8sXEP3Ct6ejWW5GPUr2Q",
                                 "includesHeaders": false,
                                 "valueRenderOption": "FORMATTED_VALUE",
                                 "dateTimeRenderOption": "FORMATTED_STRING"
@@ -470,7 +470,7 @@
                                         "label": "aktualna"
                                     },
                                     "__IMTCONN__": {
-                                        "label": "My Google connection (polandingraficy@gmail.com)"
+                                        "label": "My Google connection)"
                                     },
                                     "spreadsheetId": {
                                         "mode": "chose",
@@ -668,9 +668,9 @@
                             },
                             "mapper": {
                                 "data": "{{6.json}}",
-                                "driveId": "b!W2AwgnGS4U-HjMHIqSz0P98w-k51JjdEtpv9wdr8vjv_RHC1JUs2Qo-BzZ11_VET",
+                                "driveId": "b!W2AwgnGS4U-Hvjv_RHC1JUs2Qo-BzZ11_VET",
                                 "fileName": "POGODA_{{formatDate(addDays(now; 0); \"DDMM\")}}_aktualizacja.json",
-                                "folderId": "/01ZI6JIZC3JLRQCHLZ2BG2P2FUIN36BZO4/01ZI6JIZGY5OQ6NQGKCRDZIXUJOYWVIEQM/01ZI6JIZG4ILOVSQFINBFYZPO2FPEW73IT",
+                                "folderId": "/01ZI6JIZC3JLRQCHLZ2BG2P2FUIN36BZYWVIEQM/01ZI6JIZG4ILOVSQFINBFYZPO2FPEW73IT",
                                 "conflictBehavior": "replace"
                             },
                             "metadata": {
@@ -702,7 +702,7 @@
                                                 "scoped": "true",
                                                 "connection": "azure"
                                             },
-                                            "label": "My Microsoft connection (Mąkosa, Konrad)"
+                                            "label": "My Microsoft conad)"
                                         }
                                     }
                                 },
@@ -796,7 +796,7 @@
                                                 "scoped": "true",
                                                 "connection": "ftp"
                                             },
-                                            "label": "My FTP connection (serwer1707801.home.pl)"
+                                            "label": "My FTP connection me.pl)"
                                         }
                                     }
                                 },

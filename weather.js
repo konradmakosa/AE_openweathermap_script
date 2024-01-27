@@ -23,7 +23,7 @@ function aktualnaPogodaWW() {
     SpreadsheetApp.setCurrentCell(cell);
     var currentCell = SpreadsheetApp.getCurrentCell().getValue();
     //pyta o pogode
-    var url = "http://api.openweathermap.org/data/2.5/forecast?id="+currentCell+"&units=metric&lang=en&APPID=f04e219035cb5038a8360b9701ca0198" // 3)  The URL to call
+    var url = "http://api.openweathermap.org/data/2.5/forecast?id="+currentCell+"&units=metric&lang=en&APPID=" // 3)  The URL to call
     var response = UrlFetchApp.fetch(url, {   // 4) call the URL
       headers: {
       'Content-Type': 'application/json',  // 5) Make sure we use JSON as transport
